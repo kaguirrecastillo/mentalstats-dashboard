@@ -16,12 +16,15 @@ A small end-to-end data project that cleans and summarizes suicide-rate time ser
 - `reports/suicide_rate_top_countries_latest.csv` — ranking for the latest available year (global max year)
 - `reports/suicide_rate_summary_latest.csv` — latest value per country + change vs previous available year
 
-## How to run
-1) Create/activate your environment (optional)
-2) Run the notebook:
-   - Open Jupyter and run `notebooks/01_clean.ipynb`
-
 ## Notes on interpretation
 - Countries may have different “latest available years” depending on reporting coverage.
 - The “Top countries (latest year)” file uses the maximum year available in the dataset overall.
+
+## Dashboard (Looker Studio)
+
+Interactive dashboard built from the cleaned OWID / WHO suicide-rate outputs.
+
+- **View dashboard:** https://lookerstudio.google.com/reporting/40070861-87b4-41ca-883d-bba228b90775
+![Dashboard preview](assets/dashboard.png)
+ 
 

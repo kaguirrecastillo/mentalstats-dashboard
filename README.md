@@ -25,6 +25,3 @@ A small end-to-end data project that cleans and summarizes suicide-rate time ser
 - Countries may have different “latest available years” depending on reporting coverage.
 - The “Top countries (latest year)” file uses the maximum year available in the dataset overall.
 
-## Next steps (optional)
-- Add `notebooks/02_eda.ipynb` with charts (trend, top 10, distribution).
-- Build a Looker Studio dashboard using `reports/suicide_rate_year_country.csv` and add the public link here.

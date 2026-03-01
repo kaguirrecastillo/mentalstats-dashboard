@@ -22,9 +22,9 @@ A small end-to-end data project that cleans and summarizes suicide-rate time ser
 
 ## Dashboard (Looker Studio)
 
-Interactive dashboard built from the cleaned OWID / WHO suicide-rate outputs.
+**View dashboard:** https://lookerstudio.google.com/reporting/40070861-87b4-41ca-883d-bba228b90775
 
-- **View dashboard:** https://lookerstudio.google.com/reporting/40070861-87b4-41ca-883d-bba228b90775
-![Dashboard preview](assets/dashboard.png)
- 
+[![Dashboard preview](Preview.png)](https://lookerstudio.google.com/reporting/40070861-87b4-41ca-883d-bba228b90775)
+
+[![Dashboard preview (alt)](Table.png)](https://lookerstudio.google.com/reporting/40070861-87b4-41ca-883d-bba228b90775)
 
